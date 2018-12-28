@@ -3,4 +3,6 @@ we haev to check git commands are working or not.
 this is file in the working copy.
 now we are editing the g1 file.
 this is second editing line.
+this is third editing line.
+we have to check how it will work.
 
