@@ -2,5 +2,6 @@ this message is used for testing for the git command.
 we haev to check git commands are working or not.
 this is file in the working copy.
 now we are editing the g1 file.
-this is second editing line.
+this is second editing line. 
+this is the revert line.
 
