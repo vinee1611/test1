@@ -1,0 +1,3 @@
+this is the message for the g2 file.
+we have to enter the message.
+this for pull and  fetch commands.
